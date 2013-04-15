@@ -1,26 +1,32 @@
-# Critic Markup Extension #
+Wtyczki do programu PopClip
+===========================
 
-*Version 1.0 15 Apr 2013*
+Repozytorium zawiera wtyczki:
 
-This is extension for using [Critic Markup](http://criticmarkup.com) syntax in multimarkdown documents.
+1. CriticMarks - narzędzie dla korektorów wykorzystujące multimarkdown
+2. Znajdz Aukcje - pozwala wyszukiwać tekst w serwisie Allegro
 
+
+This repository contains plugins for PopClip.
+
+1. CriticMarks - tools for editors to use with multimarkdown syntax
+2. Znajdz Aukcje - allows searching for items in popular polish auction portal Allegro.
+
+<<<<<<< HEAD
 ## Usage ##
-
-If you edit someone's documents, use one of four critical marks:
-
-- **addition**
-- **deletion**
-- **text substitution**
-- **highlight part of the text for comment**
-
-Each selected mark may be accepted or rejected using System Services. If you don't have them in your OS download [Critical Markup Toolbox](https://github.com/CriticMarkup/CriticMarkup-toolkit/archive/master.zip)
-and put available Services inside your `~/Library/Services` directory.
-
+=======
 Services run by "ACM" and "RCM" buttons seems to be laggy and not always gives desired output. For unknown reason (at least 
 on my machine) it's better to run them from right-click menu.
+>>>>>>> 5f255306d4047518679931280449662a8d4ec3a3
 
-## To-Do ##
+Clone repository and use `*.popclipextz` files to install plugins into [PopClip](https://itunes.apple.com/us/app/popclip/id445189367?mt=12&uo=4&partnerId=30&siteID=vRL5rYo4h5A "PopClip")
 
+<<<<<<< HEAD
+
+## Credits ##
+
+Author: Sebastian Szwarc
+=======
 - [ ] Rewrite System Services for accepting and rejecting critic marks
 - [ ] Add actions for accepting/rejecting marks in whole document at once
 - [X] Actions should not appear in Firefox,Opera and Chrome
@@ -30,3 +36,4 @@ on my machine) it's better to run them from right-click menu.
 
 Extension and icons made by [Sebastian Szwarc](https://twitter.com/Behinder).
                                                                                                                
+>>>>>>> 5f255306d4047518679931280449662a8d4ec3a3
