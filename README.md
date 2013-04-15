@@ -17,7 +17,7 @@ This repository contains plugins for PopClip.
 =======
 Services run by "ACM" and "RCM" buttons seems to be laggy and not always gives desired output. For unknown reason (at least 
 on my machine) it's better to run them from right-click menu.
->>>>>>> 5f255306d4047518679931280449662a8d4ec3a3
+
 
 Clone repository and use `*.popclipextz` files to install plugins into [PopClip](https://itunes.apple.com/us/app/popclip/id445189367?mt=12&uo=4&partnerId=30&siteID=vRL5rYo4h5A "PopClip")
 
@@ -31,7 +31,7 @@ Author: Sebastian Szwarc
 - [ ] Add actions for accepting/rejecting marks in whole document at once
 - [X] Actions should not appear in Firefox,Opera and Chrome
 - [ ] Except in textarea inside those browsers
-- 
+ 
 ## Credits ##
 
 Extension and icons made by [Sebastian Szwarc](https://twitter.com/Behinder).
