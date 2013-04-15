@@ -6,6 +6,15 @@ This is extension for using [Critic Markup](http://criticmarkup.com) syntax in m
 
 ## Usage ##
 
+If you edit someone's documents, use one of four critical marks:
+
+- *addition*
+- *deletion*
+- *text substitution*
+- *highlight part of the text for comment*
+
+Each selected mark may be accepted or rejected using System Services. If you don't have them in your OS download [Critical Markup Toolbox](https://github.com/CriticMarkup/CriticMarkup-toolkit/archive/master.zip)
+and put available Services inside your `~/Library/Services` directory.
 
 
 ## To-Do ##
