@@ -8,7 +8,7 @@ This is extension for using [Critic Markup](http://criticmarkup.com) syntax in m
 
 If you edit someone's documents, use one of four critical marks:
 
-- *addition*
+- ![add][] *addition*
 - *deletion*
 - *text substitution*
 - *highlight part of the text for comment*
@@ -26,3 +26,5 @@ and put available Services inside your `~/Library/Services` directory.
 ## Credits ##
 
 Extension and icons made by [Sebastian Szwarc](https://twitter.com/Behinder).
+
+[add]: https://github.com/Behinder/PopClipExt/blob/master/CriticMarks.popclipext/add.png width=50px height=50px
