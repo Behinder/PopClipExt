@@ -35,6 +35,7 @@ Clone repository and use `*.popclipextz` files to install plugins into [PopClip]
 - [ ] Except in textarea inside those browsers
 - [X] First commit of Last.FM extension
 - [ ] Scrobbling selected data to Last.FM
+- [ ] alernative action with Option Key for downloading cover arts
 
 ## Credits ##
 
