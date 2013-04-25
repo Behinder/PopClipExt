@@ -13,7 +13,7 @@ toptenparsed = JSON.parse(topten)
 albums = toptenparsed.fetch("topalbums").fetch("album")
 liczbaalbumow = albums.length
 puts "top 10 albumów dla "+artist
-for i in (0..10) 
+for i in (0..9) 
     albums[i]["image"].each { |a| 
     if a["size"]=="extralarge" 
     puts "["+albums[i]["name"]+"]"+"(#{a["#text"]})" 
