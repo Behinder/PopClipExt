@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>Actions</key>
+		<array>
+			<dict>
+				<key>Image File</key>
+				<string>ceneo.png</string>
+				<key>Title</key>
+				<string>Szukaj w Ceneo</string>
+				<key>URL</key>
+				<string>http://www.ceneo.pl/;szukaj-{popclip text}</string>
+			</dict>
+		</array>
+		
+		<key>Extension Identifier</key>
+		<string>com.Behinder.ceneo</string>
+		<key>Extension Name</key>
+		<string>Ceneo.pl</string>
+		<key>Required Software Version</key>
+		<string>701</string>
+		<key>Required OS Version</key>
+		<string>10.9</string>
+		<key>Credits</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Sebastian Szwarc</string>
+				<key>Link</key>
+				<string>http://dev.sebastianszwarc.pl</string>
+			</dict>
+		</array>
+	</dict>
+</plist>
